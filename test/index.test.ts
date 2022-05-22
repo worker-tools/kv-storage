@@ -18,7 +18,7 @@ test('exists', () => {
 })
 
 test('ctor', async () => {
-  await import('../../deno-kv-storage/adapters/sqlite.ts')
+  await import('https://ghuc.cc/worker-tools/deno-kv-storage/adapters/sqlite.ts')
   const storage = new StorageArea('foo')
   assertExists(storage)
 })
