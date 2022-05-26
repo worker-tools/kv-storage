@@ -1,4 +1,6 @@
-import type { StorageArea as IStorageArea, Options, AllowedKey, Key } from 'https://ghuc.cc/qwtel/kv-storage-interface/index.d.ts';
+import type { 
+  StorageArea as IStorageArea, Options, AllowedKey, Key 
+} from 'https://ghuc.cc/qwtel/kv-storage-interface/index.d.ts';
 export type { Options, AllowedKey, Key }
 
 import * as dn from 'https://ghuc.cc/worker-tools/deno-kv-storage/mod.ts';
