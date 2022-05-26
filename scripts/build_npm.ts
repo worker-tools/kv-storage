@@ -17,7 +17,6 @@ await build({
   shims: {},
   test: false,
   typeCheck: false,
-  declaration: true,
   package: await mkPackage(name),
   packageManager: 'pnpm',
   compilerOptions: {
