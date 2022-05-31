@@ -59,7 +59,11 @@ This will instruct `esbuild` to replace the generic `kv-storage` module with the
 [2]: https://css-tricks.com/kv-storage/
 [3]: https://github.com/WICG/kv-storage
 
+<br/>
+
 --------
+
+<br/>
 
 <p align="center"><a href="https://workers.tools"><img src="https://workers.tools/assets/img/logo.svg" width="100" height="100" /></a>
 <p align="center">This module is part of the Worker Tools collection<br/>⁕
